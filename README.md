@@ -20,7 +20,7 @@ ggplot2
 [Additional packages as required by the app]
 
 ## Installation
-# Clone the repository:
+Clone the repository:
 git clone https://github.com/inesdimassi/songsmyth.git
 cd songsmyth
 Install the required packages:
