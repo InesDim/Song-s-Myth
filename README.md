@@ -25,13 +25,14 @@ git clone https://github.com/inesdimassi/songsmyth.git
 cd songsmyth
 Install the required packages:
 install.packages(c("shiny", "dplyr", "ggplot2", [Additional packages]))
-Usage
 
-# Run the Shiny app:
+##Usage
+Run the Shiny app:
 library(shiny)
 runApp("path_to_app_directory")
 Access the app: Once the app is running, navigate to http://localhost:3838 in your web browser to interact with the application.
-Contributing
+Contributing. 
+Or you can run the app with this link : https://inesdimassi.shinyapps.io/songsmyth/
 
 ## Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure that your code adheres to the project's coding standards and includes appropriate documentation.
 
